@@ -1,0 +1,134 @@
+html{
+  background-color:#fff;
+  padding: 60px;
+
+}
+nav{
+  text-align:center;
+}
+nav li{
+  display: inline;
+  margin:20px;
+  font-family:Calibri;
+}
+.social{
+  text-align: left;
+}
+.social li{
+  display: inline;
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-right: 20px;
+
+}
+.social ul{
+  margin: 0;
+  padding-left:20px ;
+}
+nav a:link{
+  color:black;
+}
+a:hover{
+  color:#1386a3;
+}
+a:visited{
+  color:black;
+}
+
+.container {
+    width:637px;
+    height:825px;
+    background-color: white;
+    margin: 0 auto;
+    box-shadow:20px 20px 15px #686767;;
+}
+.one {
+    width:30%;
+    height:100%;
+    float:left;
+    background-color:#2d2b2b;
+}
+.two {
+    width:70%;
+    height:100%;
+    float:left;
+    background-color:white;
+}
+#photo{
+
+}
+#name{
+  text-align: left;
+  margin-left: 20px;
+  margin-bottom: 50px;
+  font-family: Optima,sans-serif;
+}
+section{
+  margin-left: 20px;
+  font-family: Optima,sans-serif;
+  color: #f19bf2;
+  font-size:14px;
+}
+section a:link{
+  color:#f19bf2;
+}
+section a:hover{
+  color:#1386a3;
+}
+section a:visited{
+  color:#f19bf2;
+  /*Visited state stays after click.
+  Cannot go back to hover.*/
+}
+a{
+  text-decoration:none;
+}
+.filler{
+  height: 420px;
+}/*Would like to know if there is a better way to push content to bottom*/
+#job{
+  margin-top:0px;
+}
+
+.date {
+  padding-left: 200px;
+}
+.date2 {
+  padding-left: 220px;
+}
+.res{
+  padding:20px;
+}
+h1{
+  margin-bottom:0;
+}
+h2{
+  margin-top:-10px;
+  margin-bottom:30px;
+  color:#b66eb7;
+}
+h4{
+  font-family:Calibri;
+  font-size:16px;
+  margin:0;
+}
+h3{
+  font-family:Optima;
+  margin-top: 0;
+  margin-bottom:10px ;
+}
+h5{
+  margin:0;
+  color:#737984;
+
+}
+hr{
+  width:90%;
+  color:#bdbebf
+}
+
+p{
+  font-family:Calibri;
+  font-size:small;
+  font-weight: lighter ;
+}
